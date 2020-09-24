@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SunandanBose/dataStructures-and-algorithms/issues"
   },
-  "homepage": "https://github.com/SunandanBose/dataStructures-and-algorithms#readme"
+  "homepage": "https://github.com/SunandanBose/dataStructures-and-algorithms#readme",
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
 }

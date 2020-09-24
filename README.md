@@ -5,3 +5,10 @@ Sl. No.| Problem Name                       | Problem Explanation | Solution | T
 -------| -----------------------------------|:-------------------:|---------:|------|
 1 | Reverse String                |[Explanation](https://www.geeksforgeeks.org/reverse-a-string-in-javascript/) |[Code](day1/reverseString.js)| |
 2 | nth Term in Fibonnaci  |  |[Code](day1/fibonacci.js)| |
+
+
+
+
+
+## References
+- [JavaScript TestCase Help](https://www.freecodecamp.org/news/how-to-start-unit-testing-javascript/) 
