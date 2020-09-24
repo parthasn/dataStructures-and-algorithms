@@ -1,14 +1,15 @@
 {
   "name": "day1",
   "version": "1.0.0",
-  "description": "tests",
+  "description": "jest testing",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^26.4.2"
+  },
   "scripts": {
     "test": "jest"
   },
   "author": "",
-  "license": "ISC",
-  "devDependencies": {
-    "jest": "^26.4.2"
-  }
+  "license": "ISC"
 }

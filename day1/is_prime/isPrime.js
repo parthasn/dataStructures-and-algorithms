@@ -30,9 +30,11 @@ function isPrimeUsingRecursion(n, i = n-1){
     return isPrimeUsingRecursion(n, i-1)
 }
 
-if(isPrimeUsingRecursion(16)){
-        console.log("Prime")
-    }
-    else{
-        console.log("Not Prime")
-    }
+// if(isPrimeUsingRecursion(16)){
+//         console.log("Prime")
+//     }
+//     else{
+//         console.log("Not Prime")
+//     }
+
+module.exports = isPrimeUsingRecursion

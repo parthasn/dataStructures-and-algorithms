@@ -8,6 +8,9 @@ function decimalToBinary(n){
     return sum
 }
 
-let res = decimalToBinary(72)
-console.log(res)
+console.log(decimalToBinary(25))
+console.log(decimalToBinary(100))
+console.log(decimalToBinary(1325))
+
+//module.exports = decimalToBinary
 
