@@ -23,7 +23,7 @@ function countEvenUsingRecursion(arr){
     return countEvenUsingRecursion(arr)
 }
 
-let res1 = countEvenUsingRecursion([1,2,3,4,5,6,7,8,9])
-console.log(res1)
+//let res1 = countEvenUsingRecursion([1,2,3,4,5,6,7,8,9])
+//console.log(res1)
 
 module.exports = countEvenUsingRecursion
